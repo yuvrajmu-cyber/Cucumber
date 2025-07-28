@@ -18,7 +18,7 @@ public class CheckoutPage {
 
 	
 	
-	
+	//
 	public void CheckoutItems()
 	{
 		driver.findElement(cartBag).click();
